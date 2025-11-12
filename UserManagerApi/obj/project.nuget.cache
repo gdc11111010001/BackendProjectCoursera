@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ujK+pwidLTs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giuli\\Documents\\GitHub\\UserManagerApi\\UserManagerApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giuli\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.9\\microsoft.dotnet.ilcompiler.9.0.9.nupkg.sha512",
+    "C:\\Users\\giuli\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.9\\microsoft.net.illink.tasks.9.0.9.nupkg.sha512",
+    "C:\\Users\\giuli\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.9\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
